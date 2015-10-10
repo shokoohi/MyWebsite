@@ -4,4 +4,4 @@ Pushed by git-ftp
 
 http://git-ftp.github.io/git-ftp/
 
-git ftp push -u farhad -p - gate.math.mcgill.ca
+git ftp push -u ?
